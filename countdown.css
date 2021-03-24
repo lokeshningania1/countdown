@@ -1,0 +1,36 @@
+h3,p{
+    text-align: center;
+}
+h3{
+    font-size: 4rem;
+}
+
+body{
+    background-image: url('images/3.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+*{
+    box-sizing: border-box;
+}
+.countdown{
+    display: flex;
+}
+.big-text{
+    font-size: 6rem;
+    margin: 0  2rem;
+    line-height: 1;
+}
+
+.countdown-e1{
+    text-align: center
+}
+
+.countdown-e1 span{
+    font-size: 2rem;
+}
